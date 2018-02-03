@@ -1,0 +1,20 @@
+body {
+	background-image: url("vintage-concrete.png");
+}
+
+.navbar-brand {
+	background-color: #4aaaa5;
+	color: white;
+}
+
+.main {
+	width: 60%;
+	margin: 30px;
+}
+
+footer {
+
+	background-color: grey;
+	font-kerning: center;
+
+}
